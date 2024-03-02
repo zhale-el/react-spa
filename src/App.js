@@ -17,7 +17,7 @@ function App() {
           <Route path="/blog" element={<Blog></Blog>}></Route>
           <Route path="/login" element={<Login></Login>}></Route>
           <Route path="/panel" element={<Panel></Panel>}></Route>
-          <Route path="/course" element={<Course></Course>}></Route>
+          <Route path="/course/:courseId" element={<Course></Course>}></Route>
         </Routes>
       </BrowserRouter>
     </>
