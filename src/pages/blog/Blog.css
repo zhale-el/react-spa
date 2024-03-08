@@ -1,0 +1,16 @@
+.articleWrapper {
+  text-align: center;
+}
+.btnContainer {
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+
+.linkBtn {
+  color: #333;
+  text-decoration: none;
+  border: 1px solid gray;
+  border-radius: 9px;
+  padding: 10px 15px;
+  margin: 0 10px;
+}

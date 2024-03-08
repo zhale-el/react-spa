@@ -1,7 +1,7 @@
 import MyNavbar from "../../components/Navbar/Navbar";
 import "./About.css";
 import imageAbout from "../../assets/images/undraw_About_us_page_re_2jfm.png";
-import { Container, Row } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import Footer from "../../components/Footer/Footer";
 function About() {
   return (
